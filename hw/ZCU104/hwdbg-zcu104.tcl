@@ -23,10 +23,10 @@
 # 2. The following source(s) files that were local or imported into the original project.
 #    (Please see the '$orig_proj_dir' and '$origin_dir' variable setting below at the start of the script)
 #
-#    "C:/Users/sina/Desktop/HyperDbg/hwdbg/hwdbg-zcu104/hwdbg-zcu104.srcs/sources_1/ip/blk_mem_gen_0/blk_mem_gen_0.xci"
-#    "C:/Users/sina/Desktop/HyperDbg/hwdbg/hwdbg-zcu104/hwdbg-zcu104.srcs/sources_1/new/top.v"
-#    "C:/Users/sina/Desktop/HyperDbg/hwdbg/hwdbg-zcu104/hwdbg-zcu104.srcs/constrs/new/constraints.xdc"
-#    "C:/Users/sina/Desktop/HyperDbg/hwdbg/hwdbg-zcu104/hwdbg-zcu104.srcs/utils_1/imports/synth_1/top.dcp"
+#    "src/blk_mem_gen_0.xci"
+#    "src/top.v"
+#    "src/constraints.xdc"
+#    "src/top.dcp"
 #
 # 3. The following remote source files that were added to the original project:-
 #

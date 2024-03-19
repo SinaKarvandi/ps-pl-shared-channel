@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: HyperDbg
+// Engineer: Sina Karvandi (sina@hyperdbg.org)
 // 
 // Create Date: 03/18/2024 06:40:03 PM
-// Design Name: 
+// Design Name: Shared BRAM over PS <> PL
 // Module Name: top
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
+// Project Name: hwdbg
+// Target Devices: ZCU104
+// Tool Versions: v0.1
+// Description: This project shares 8 KB Block RAM (BRAM) make it accessible over PL <> PS
 // 
 // Dependencies: 
 // 
