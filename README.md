@@ -1,2 +1,2 @@
-# AXI-Stream-To-BRAM
-Read/write from BRAM by using AXI-Stream Protocol
+# PL <> PS Shared BRAM
+Read/write from BRAM by using PS & PL
